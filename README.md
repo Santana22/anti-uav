@@ -1,2 +1,2 @@
 # ppgtimestrado
-Repósitório do Mestrado PPGTI - UFRN
+Repósitório do Anti-UAV
