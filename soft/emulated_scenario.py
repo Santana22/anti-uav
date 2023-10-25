@@ -35,7 +35,7 @@ def topology():
                             ip='10.200.0.3/24')
 
     info("*** Configuring wifi nodes\n")
-    net.configureWifiNodes()
+    net.configureWifiNodes();
 
     info("*** Associating Stations\n")
     net.addLink(alice1, ap1)
