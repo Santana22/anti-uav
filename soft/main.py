@@ -1,10 +1,9 @@
 #         ANTI-UAV WRAPPED
 #         Version 0.1
 
-import os, subprocess
+import subprocess
 
-
-class AircrackWrapper:
+class AntiuavWrapper:
     def __init__(self, interface):
         self.interface = interface
 
